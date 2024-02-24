@@ -1,0 +1,13 @@
+{
+    "verbose": true,
+    "ignore": [
+        "./src/upload/"
+    ],
+    "execMap": {
+        "rb": "ruby",
+        "pde": "processing --sketch={{pwd}} --run"
+    },
+    "watch": [
+        "src/" 
+    ]
+}

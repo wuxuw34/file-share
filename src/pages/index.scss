@@ -1,0 +1,30 @@
+
+.desc {
+    border-radius: 5px;
+    height: 15px;
+    border: 1px solid #d9d9d9;
+    line-height: 15px;
+    white-space: nowrap;
+    padding: 3px;
+    font-size: 13px;
+    color:rgba(0, 0, 0, 0.65);
+    background-color: rgb(251, 251, 251);
+    /* letter-spacing: 1px; */
+}
+.status_0 {
+  border: 1px rgb(255, 176, 171) solid;
+  background-color: rgb(255, 243, 242);
+  color: red;
+}
+
+.status_1 {
+  border: 1px rgb(255, 243, 242) solid;
+  background-color: rgb(153, 215, 127);
+  color: white;
+}
+
+.status_-1 {
+  border: 1px rgb(255, 176, 171) solid;
+  background-color: red;
+  color: white;
+}
